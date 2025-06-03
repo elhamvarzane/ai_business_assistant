@@ -11,4 +11,4 @@ def add_employee(full_name, position, hire_date):
     conn.close()
 
 if __name__ == "__main__":
-    add_employee("الناز رضایی", "مدیر فروش", "2024-12-01")
+    add_employee("egv1", "modir", "2024-12-02")

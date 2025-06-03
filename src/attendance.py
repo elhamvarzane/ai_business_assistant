@@ -11,4 +11,4 @@ def add_attendance(employee_id, date, status):
     conn.close()
 
 if __name__ == "__main__":
-    add_attendance(1, "2025-06-03", "present")
+    add_attendance(2, "2025-06-04", "present")

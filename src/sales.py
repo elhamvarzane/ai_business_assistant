@@ -11,4 +11,4 @@ def add_sale(employee_id, date, amount):
     conn.close()
 
 if __name__ == "__main__":
-    add_sale(1, "2025-06-03", 120000.00)
+    add_sale(2, "2025-06-03", 130000.00)
