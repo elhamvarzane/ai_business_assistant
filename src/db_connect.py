@@ -5,5 +5,5 @@ def connect_to_db():
         host="localhost",
         user="root",           # اگر نام کاربری دیگه‌ای داری، اینجا تغییر بده
         password="Egv123456",           # اگر رمز داری، اینجا وارد کن
-        database=""  #  موقت
+        database="ai_business"  #  موقت
     )
